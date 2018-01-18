@@ -1,4 +1,4 @@
-# Node Todo Frontend
+# Dotnet Todo Frontend
 
 This is a sample for the docker development labs.
 
